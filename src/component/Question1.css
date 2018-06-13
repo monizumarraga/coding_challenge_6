@@ -1,0 +1,56 @@
+.question{
+	margin: 50px;
+	padding: 10px;
+	border: 2px solid white;
+  	background-color:rgba(0, 57, 127, 1);
+	background-image: 
+	radial-gradient(circle at 100% 150%, rgba(0, 57, 127, 1) 24%, white 25%, white 28%, rgba(0, 57, 127, 1) 29%, rgba(0, 57, 127, 1) 36%, white 36%, white 40%, transparent 40%, transparent),
+	radial-gradient(circle at 0    150%, rgba(0, 57, 127, 1) 24%, white 25%, white 28%, rgba(0, 57, 127, 1) 29%, rgba(0, 57, 127, 1) 36%, white 36%, white 40%, transparent 40%, transparent),
+	radial-gradient(circle at 50%  100%, white 10%, rgba(0, 57, 127, 1) 11%, rgba(0, 57, 127, 1) 23%, white 24%, white 30%, rgba(0, 57, 127, 1) 31%, rgba(0, 57, 127, 1) 43%, white 44%, white 50%, rgba(0, 57, 127, 1) 51%, rgba(0, 57, 127, 1) 63%, white 64%, white 71%, transparent 71%, transparent),
+	radial-gradient(circle at 100% 50%, white 5%, rgba(0, 57, 127, 1) 6%, rgba(0, 57, 127, 1) 15%, white 16%, white 20%, rgba(0, 57, 127, 1) 21%, rgba(0, 57, 127, 1) 30%, white 31%, white 35%, rgba(0, 57, 127, 1) 36%, rgba(0, 57, 127, 1) 45%, white 46%, white 49%, transparent 50%, transparent),
+	radial-gradient(circle at 0    50%, white 5%, rgba(0, 57, 127, 1) 6%, rgba(0, 57, 127, 1) 15%, white 16%, white 20%, rgba(0, 57, 127, 1) 21%, rgba(0, 57, 127, 1) 30%, white 31%, white 35%, rgba(0, 57, 127, 1) 36%, rgba(0, 57, 127, 1) 45%, white 46%, white 49%, transparent 50%, transparent);
+	background-size:100px 50px;
+}
+
+.f1{
+  	font-family: sans-serif;
+  	font-size: 2.5em;
+  	color:rgba(0, 57, 127, 1);
+  	padding-top: 10px;
+  	padding-bottom:10px;
+	margin-left: 650px;
+	margin-right: 650px;
+  	border: 2px solid rgba(0, 57, 127, 1);
+	background-color: white;
+  }
+
+.f3{
+  	font-family: sans-serif;
+  	font-size: 1.25em;
+  	color:rgba(0, 57, 127, 1);
+	background-color: rgba(127, 155, 190, 1);
+	border: 2px solid rgba(0, 57, 127, 1);
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+.f4{
+  	font-family: sans-serif;
+  	font-size: 1.1em;
+  	color:rgba(0, 57, 127, 1);
+}
+
+
+.f5{
+  	font-family: sans-serif;
+  	font-size: 1.1em;
+  	color:white;
+	background-color: rgba(127, 155, 190, 1);
+	border: 2px solid rgba(0, 57, 127, 1);
+}
+.result{
+  	font-family: sans-serif;
+  	font-size: 1.1em;
+  	color:white;
+	background-color: rgba(0, 57, 127, 1);
+}
